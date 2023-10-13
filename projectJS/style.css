@@ -1,0 +1,12 @@
+h1{
+font-family: 'Inclusive Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+}
+.carousel-item img{ 
+    width: 100%;
+    height: 80vh;
+}
+.card-body img{
+min-width: 50%;
+max-height: 200px;
+}
